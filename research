@@ -1,5 +1,4 @@
-    const research = [
-        {
+[ {
             title: language === 'fr' ? "Gestion de stockage" : "stock management",
             url: "https://th.bing.com/th/id/OIP.VmjrzHGeb3fqroLkvWtoAQHaHa?w=1000&h=1000&rs=1&pid=ImgDetMain",
             date: language === 'fr' ? "De 2018 à 2020" : "From 2018 to 2020",
@@ -14,5 +13,5 @@
             description: language === 'fr' ? "C'est mon deuxieme project de fin d'etude" : "Its my second first project",
 
         },
-    ];
+];
 
