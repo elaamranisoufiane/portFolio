@@ -1,0 +1,52 @@
+{
+    "fr": {
+        "about": "À propos",
+        "experience": "Expérience",
+        "education": "Formation",
+        "skills": "Compétences",
+        "research": "Recherche",
+        "projects": "Projects",
+        "downloadCV": "Télécharger CV",
+        "aboutMe": "À propos de moi",
+        "professionalExperiences": "Expériences Professionnelles",
+        "technologies": "Technologies",
+        "languages": "Langues",
+        "nativeSpeaker": "langue maternelle",
+        "fairlyGood": "assez bien",
+        "personalInfo": {
+            "title": "Développeur Full Stack",
+            "born": "Né le",
+            "nationality": "Nationalité"
+        },
+        "aboutText": "Jeune, ambitieux et passionné par l'informatique, doté d'un esprit d'équipe et capable d'apprendre constamment de nouvelles choses. Diplômé d'un Master en Informatique Décisionnelle. Rigoureux, très motivé et disponible pour travailler en équipe.",
+        "frameworksAndTools": "Frameworks, outils et langages de programmation",
+        "businessIntelligence": "Outils Business Intelligence",
+        "databaseManagement": "Gestion des bases de données",
+        "otherSkills": "Autres compétences"
+    },
+    "en": {
+        "about": "About",
+        "experience": "Experience",
+        "education": "Education",
+        "skills": "Skills",
+        "projects": "Projects",
+        "research": "Research",
+        "downloadCV": "Download CV",
+        "aboutMe": "About Me",
+        "professionalExperiences": "Professional Experiences",
+        "technologies": "Technologies",
+        "languages": "Languages",
+        "nativeSpeaker": "native speaker",
+        "fairlyGood": "fairly good",
+        "personalInfo": {
+            "title": "Full Stack Developer",
+            "born": "Born on",
+            "nationality": "Nationality"
+        },
+        "aboutText": "Young, ambitious and passionate about computer science, with a team spirit and ability to constantly learn new things. Graduated with a Master's degree in Business Intelligence. Rigorous, highly motivated and available to work in a team.",
+        "frameworksAndTools": "Frameworks, tools and programming languages",
+        "businessIntelligence": "Business Intelligence Tools",
+        "databaseManagement": "Database Management",
+        "otherSkills": "Other Skills"
+    }
+}
